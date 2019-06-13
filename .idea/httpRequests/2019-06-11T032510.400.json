@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "": [
+      "A non-empty request body is required."
+    ]
+  },
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "0HLNEDJSAFTM9:00000001"
+}

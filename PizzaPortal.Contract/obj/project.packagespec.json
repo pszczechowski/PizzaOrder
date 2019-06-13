@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Contract\\PizzaPortal.Contract.csproj",
+    "projectName": "PizzaPortal.Contract",
+    "projectPath": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Contract\\PizzaPortal.Contract.csproj",
+    "outputPath": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Contract\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Infrastructure\\PizzaPortal.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Infrastructure\\PizzaPortal.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

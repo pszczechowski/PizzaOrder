@@ -1,0 +1,12 @@
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\bin\Debug\netcoreapp2.2\PizzaPortal.Contract.deps.json
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\bin\Debug\netcoreapp2.2\PizzaPortal.Contract.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\bin\Debug\netcoreapp2.2\PizzaPortal.Contract.pdb
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\obj\Debug\netcoreapp2.2\PizzaPortal.Contract.csprojAssemblyReference.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\obj\Debug\netcoreapp2.2\PizzaPortal.Contract.csproj.CoreCompileInputs.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\obj\Debug\netcoreapp2.2\PizzaPortal.Contract.AssemblyInfoInputs.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\obj\Debug\netcoreapp2.2\PizzaPortal.Contract.AssemblyInfo.cs
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\obj\Debug\netcoreapp2.2\PizzaPortal.Contract.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\obj\Debug\netcoreapp2.2\PizzaPortal.Contract.pdb
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\bin\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\bin\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.pdb
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Contract\obj\Debug\netcoreapp2.2\PizzaPortal.Contract.csproj.CopyComplete

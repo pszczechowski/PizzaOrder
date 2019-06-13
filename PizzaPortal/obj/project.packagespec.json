@@ -1,0 +1,64 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal\\PizzaPortal.csproj",
+    "projectName": "PizzaPortal",
+    "projectPath": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal\\PizzaPortal.csproj",
+    "outputPath": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Core\\PizzaPortal.Core.csproj": {
+            "projectPath": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Core\\PizzaPortal.Core.csproj"
+          },
+          "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Infrastructure\\PizzaPortal.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\piotr\\RiderProjects\\PizzaPortal\\PizzaPortal.Infrastructure\\PizzaPortal.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[4.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

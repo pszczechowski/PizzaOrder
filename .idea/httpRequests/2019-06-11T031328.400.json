@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "": [
+      "Unexpected character encountered while parsing value: {. Path '', line 1, position 1."
+    ]
+  },
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "0HLNEDJSAFTLE:00000001"
+}

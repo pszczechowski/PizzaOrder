@@ -1,0 +1,11 @@
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\bin\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.deps.json
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\bin\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.runtimeconfig.json
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\bin\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.runtimeconfig.dev.json
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\bin\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\bin\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.pdb
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\obj\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.csprojAssemblyReference.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\obj\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\obj\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\obj\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.AssemblyInfo.cs
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\obj\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Infrastructure\obj\Debug\netcoreapp2.2\PizzaPortal.Infrastructure.pdb

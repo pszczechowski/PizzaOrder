@@ -1,0 +1,14 @@
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\bin\Debug\netcoreapp2.2\PizzaPortal.Specs.deps.json
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\bin\Debug\netcoreapp2.2\PizzaPortal.Specs.runtimeconfig.json
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\bin\Debug\netcoreapp2.2\PizzaPortal.Specs.runtimeconfig.dev.json
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\bin\Debug\netcoreapp2.2\PizzaPortal.Specs.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\bin\Debug\netcoreapp2.2\PizzaPortal.Specs.pdb
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\obj\Debug\netcoreapp2.2\PizzaPortal.Specs.csprojAssemblyReference.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\obj\Debug\netcoreapp2.2\PizzaPortal.Specs.csproj.CoreCompileInputs.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\obj\Debug\netcoreapp2.2\PizzaPortal.Specs.AssemblyInfoInputs.cache
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\obj\Debug\netcoreapp2.2\PizzaPortal.Specs.AssemblyInfo.cs
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\obj\Debug\netcoreapp2.2\PizzaPortal.Specs.dll
+C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal.Specs\obj\Debug\netcoreapp2.2\PizzaPortal.Specs.pdb

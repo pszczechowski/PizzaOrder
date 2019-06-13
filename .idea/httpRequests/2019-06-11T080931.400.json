@@ -1,0 +1,19 @@
+{
+  "errors": {
+    "Images[0].PizzaTemplates": [
+      "Error converting value \"Fota1\" to type 'PizzaPortal.Infrastructure.PizzaTemplates'. Path 'Images[0].PizzaTemplates', line 10, position 30."
+    ],
+    "Images[1].PizzaTemplates": [
+      "Error converting value \"Fota2\" to type 'PizzaPortal.Infrastructure.PizzaTemplates'. Path 'Images[1].PizzaTemplates', line 11, position 30."
+    ],
+    "Ingredients[0].PizzaTemplates": [
+      "Error converting value \"Peperoni\" to type 'PizzaPortal.Infrastructure.PizzaTemplates'. Path 'Ingredients[0].PizzaTemplates', line 4, position 95."
+    ],
+    "Ingredients[1].PizzaTemplates": [
+      "Error converting value \"Hawajska\" to type 'PizzaPortal.Infrastructure.PizzaTemplates'. Path 'Ingredients[1].PizzaTemplates', line 5, position 87."
+    ]
+  },
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "0HLNEINCLRQLL:00000001"
+}

@@ -1,0 +1,589 @@
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "PizzaTemplate":"Peperoni",
+  "Ingredients": [
+    { "IngredientName":"Papryka,Salami", "IngredientPrice":"3.00" , "PizzaTemplates":""},
+    { "IngredientName":"Salami", "IngredientPrice":"3.00" , "PizzaTemplates":""},
+    { "name":"Fiat", "models":[ "500", "Panda" ] }
+  ],
+
+  "Images": [
+    { "PizzaTemplates":""},
+    { "PizzaTemplates":""},
+  ]
+}
+
+<> 2019-06-11T081003.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "PizzaTemplate":"Peperoni",
+  "Ingredients": [
+    { "IngredientName":"Papryka,Salami", "IngredientPrice":"3.00" , "PizzaTemplates":"Peperoni"},
+    { "IngredientName":"Salami", "IngredientPrice":"3.00" , "PizzaTemplates":"Hawajska"},
+    { "name":"Fiat", "models":[ "500", "Panda" ] }
+  ],
+
+  "Images": [
+    { "PizzaTemplates":""},
+    { "PizzaTemplates":""},
+  ]
+}
+
+<> 2019-06-11T080950.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "PizzaTemplate":"Peperoni",
+  "Ingredients": [
+    { "IngredientName":"Papryka,Salami", "IngredientPrice":"3.00" , "PizzaTemplates":"Peperoni"},
+    { "IngredientName":"Salami", "IngredientPrice":"3.00" , "PizzaTemplates":"Hawajska"},
+    { "name":"Fiat", "models":[ "500", "Panda" ] }
+  ],
+
+  "Images": [
+    { "PizzaTemplates":"Fota1"},
+    { "PizzaTemplates":"Fota2"},
+  ]
+}
+
+<> 2019-06-11T080931.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "PizzaTemplate":"Peperoni",
+  "Ingredients": [
+    { "IngredientName":"Papryka", "IngredientPrice":"3.00" , "PizzaTemplates":"Peperoni"},
+    { "IngredientName":"Papryka", "IngredientPrice":"3.00" , "PizzaTemplates":"Peperoni"},
+    { "name":"Fiat", "models":[ "500", "Panda" ] }
+  ],
+
+  "Images": [
+    { "PizzaTemplates":"Fota1"},
+    { "PizzaTemplates":"Fota2"},
+  ]
+}
+
+<> 2019-06-11T080645.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplates" :  "Niedziala"
+}
+
+<> 2019-06-11T080631.500.html
+
+###
+
+POST https://localhost:5001/api/values
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{ "PizzaTemplate" : "Peperoni" }
+
+<> 2019-06-11T080622.400.json
+
+###
+
+POST https://localhost:5001/api/values
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+<> 2019-06-11T050602.400.json
+
+###
+
+POST https://localhost:5001/api/values
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+<> 2019-06-11T050552.400.json
+
+###
+
+POST https://localhost:5001/api/values
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni",
+  "Pizza" : "jest"
+}
+
+<> 2019-06-11T044308.400.json
+
+###
+
+POST https://localhost:5001/api/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni",
+  "Pizza" : "jest"
+}
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni",
+  "Pizza" : "jest"
+}
+
+<> 2019-06-11T044242.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+<> 2019-06-11T043639.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+<> 2019-06-11T043622.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: text/html
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+<> 2019-06-11T043559.415.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+<> 2019-06-11T043532.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplate" : "Peperoni"
+}
+
+<> 2019-06-11T042808.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T042716.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T042629.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplates" :  "Niedziala"
+}
+
+<> 2019-06-11T042510.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplates" :  "Niedziala"
+}
+
+<> 2019-06-11T032514.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T032510.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T032409.400.json
+
+###
+
+PUT https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+PATCH https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+GET https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+POST http://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplates" :  "Niedziala"
+}
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+"PizzaTemplates" :  "Niedziala"
+}
+
+<> 2019-06-11T032241.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T032238.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T032211.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T032209.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T032130.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-06-11T032039.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T032029.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T032019-1.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T032019.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T032018.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T032017.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T031931.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T031452.500.html
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/getalltemplates
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+###
+
+POST https://localhost:5001/api/pizzatemplates/getalltemplates
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+###
+
+POST https://localhost:5001/api/pizzatemplates
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T031412.500.html
+
+###
+
+POST https://localhost:5001/api/values
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T031328.400.json
+
+###
+
+POST https://localhost:5001/api/values
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T031223.400.json
+
+###
+
+POST https://localhost:5001/api/values
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T031150.400.json
+
+###
+
+POST https://localhost:5001/api/pizzatemplates
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+<> 2019-06-11T031107.500.html
+
+###
+
+DELETE https://localhost:5001/api/pizzatemplates
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+###
+
+PUT https://localhost:5001/api/pizzatemplates
+Accept: text/plain
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "PizzaTempplate" : "Peperoni" }
+
+###
+

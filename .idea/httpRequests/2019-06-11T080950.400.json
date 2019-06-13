@@ -1,0 +1,13 @@
+{
+  "errors": {
+    "Ingredients[0].PizzaTemplates": [
+      "Error converting value \"Peperoni\" to type 'PizzaPortal.Infrastructure.PizzaTemplates'. Path 'Ingredients[0].PizzaTemplates', line 4, position 95."
+    ],
+    "Ingredients[1].PizzaTemplates": [
+      "Error converting value \"Hawajska\" to type 'PizzaPortal.Infrastructure.PizzaTemplates'. Path 'Ingredients[1].PizzaTemplates', line 5, position 87."
+    ]
+  },
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "0HLNEINCLRQLM:00000001"
+}
