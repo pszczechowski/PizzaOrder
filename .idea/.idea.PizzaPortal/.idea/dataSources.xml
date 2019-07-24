@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="dbo.PizzaPortalApi.db" uuid="02bde728-2451-48d5-88c5-2794882af37a">
+    <data-source source="LOCAL" name="dbo.PizzaPortalApi" uuid="40c158e4-d65a-4e49-926a-87f135983994">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/PizzaPortal/dbo.PizzaPortalApi.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\piotr\RiderProjects\PizzaPortal\PizzaPortal\dbo.PizzaPortalApi.db</jdbc-url>
       <driver-properties>
         <property name="enable_load_extension" value="true" />
       </driver-properties>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
+        </library>
+      </libraries>
     </data-source>
   </component>
 </project>
